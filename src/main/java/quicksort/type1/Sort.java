@@ -3,6 +3,7 @@ package quicksort.type1;
 /**
  * Create by 摆欣安
  * 2019/8/7 9:18
+ * 类型1-快速排序
  */
 public class Sort {
 
