@@ -3,6 +3,8 @@ package bubblesort.type1;
 /**
  * Create by 摆欣安
  * 2019/8/7 8:22
+ * 类型2-使用for循环
+ * 从左向右冒泡
  */
 public class Sort {
 
